@@ -1,0 +1,17 @@
+com.aventstack.extentreports
+com.aventstack.extentreports.exceptions
+com.aventstack.extentreports.externalconfig
+com.aventstack.extentreports.externalconfig.model
+com.aventstack.extentreports.gherkin
+com.aventstack.extentreports.gherkin.model
+com.aventstack.extentreports.markuputils
+com.aventstack.extentreports.mediastorage
+com.aventstack.extentreports.mediastorage.impl
+com.aventstack.extentreports.mediastorage.model
+com.aventstack.extentreports.model
+com.aventstack.extentreports.reporter
+com.aventstack.extentreports.reporter.configuration
+com.aventstack.extentreports.reporter.impl
+com.aventstack.extentreports.resource
+com.aventstack.extentreports.utils
+com.aventstack.extentreports.viewdefs
